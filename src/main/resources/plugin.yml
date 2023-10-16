@@ -1,0 +1,4 @@
+name: CoreLib
+version: '${project.version}'
+main: org.diamond.corelib.Core_lib
+api-version: '1.18'
